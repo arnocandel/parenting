@@ -1,5 +1,4 @@
-# parenting
-Parenting for Geeks
+# Parenting Algorithm
 
 ```
 boolean cry = false;
